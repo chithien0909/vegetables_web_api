@@ -1,4 +1,4 @@
-# vegetables_web_api
+# vegetables api
 
 * Express
 * Typescript
